@@ -1,0 +1,55 @@
+_repo: Gods-of-Modern-Grub-Street-Impressions-of-Contemporary-Authors_67878
+_version: 0.0.1
+contributor:
+  photographer:
+    agent_name: Hoppé, E. O. (Emil Otto)
+    aliases:
+    - Hoppé, Emil Otto
+    - Hoppe, E. O. (Emil Otto)
+    birthdate: 1878
+    deathdate: 1972
+    gutenberg_agent_id: '47338'
+    url: http://www.gutenberg.org/2009/agents/47338
+    wikipedia: https://en.wikipedia.org/wiki/E._O._Hopp%C3%A9
+creator:
+  author:
+    agent_name: Adcock, Arthur St. John
+    alias: Adcock, A. St. John
+    birthdate: 1864
+    deathdate: 1930
+    gutenberg_agent_id: '42663'
+    url: http://www.gutenberg.org/2009/agents/42663
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_St_John_Adcock
+description: ''
+gutenberg_issued: '2022-04-20'
+identifiers:
+  gutenberg: '67878'
+  lccn: '23013132'
+language: en
+pgterms:marc904: https://archive.org/details/godsofmoderngrub00adco/page/n7
+pgterms:marc905: 20190806031346adcock
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Frederick A. Stokes Company,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 20th century -- History and criticism'
+- !lcc 'PR'
+- !lcsh 'English literature -- 20th century -- History and criticism'
+- GITenberg
+tableOfContents: Thomas Hardy -- Hilaire Belloc -- Arnold Bennett -- John Davys Beresford
+  -- John Buchan -- Donn Byrne -- William Henry Davies -- Walter de la Mare -- Sir
+  Arthur Conan Doyle -- John Drinkwater -- Jeffery Farnol -- John Galsworthy -- Sir
+  Anthony Hope Hawkins -- Arthur Stuart Menteth Hutchinson -- Sheila Kaye-Smith --
+  Rudyard Kipling -- William John Locke -- Stephen McKenna -- Compton Mackenzie --
+  John Masefield -- Alfred Edward Woodley Mason -- William Somerset Maugham -- William
+  Babington Maxwell -- Leonard Merrick -- Alan Alexander Milne -- Alfred Noyes --
+  E. Phillips Oppenheim -- May Sinclair -- Frank Swinnerton -- Hugh Walpole -- Herbert
+  George Wells -- Israel Zangwill.
+title: 'Gods of Modern Grub Street: Impressions of Contemporary Authors'
+url: http://www.gutenberg.org/ebooks/67878
