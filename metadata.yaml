@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '47338'
     url: http://www.gutenberg.org/2009/agents/47338
     wikipedia: https://en.wikipedia.org/wiki/E._O._Hopp%C3%A9
+covers:
+- cover_type: archival
+  image_path: 67878-h/images/cover.jpg
 creator:
   author:
     agent_name: Adcock, Arthur St. John
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42663
     wikipedia: https://en.wikipedia.org/wiki/Arthur_St_John_Adcock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67878#Gods-of-Modern-Grub-Street-Impressions-of-Contemporary-Authors
 gutenberg_issued: '2022-04-20'
 identifiers:
   gutenberg: '67878'
